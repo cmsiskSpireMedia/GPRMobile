@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\test\GuardianMobile\GuardianMobile\bin\GuardianMobile.dll
+C:\Users\David\Desktop\test\GuardianMobile\GuardianMobile\bin\GuardianMobile.pdb
+C:\Users\David\Desktop\test\GuardianMobile\GuardianMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\test\GuardianMobile\GuardianMobile\obj\Debug\GuardianMobile.dll
+C:\Users\David\Desktop\test\GuardianMobile\GuardianMobile\obj\Debug\GuardianMobile.pdb
